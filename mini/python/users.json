@@ -1,0 +1,26 @@
+{
+    "test2": {
+        "username": "test2",
+        "hashedPassword": "21b115df24d66ceb1273a0d9113c92e5057593aa12b237e8a90e7512470ae6663e641e01abd9c70dae977f2c83a3f162ea8bd938f173425ceb492a26ebc209b8",
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmAK3X96FpVUH5dtljB7cOR9GYWY2\nnfWvQFtMWusmScHooE/93mlC6mudUvSuSfOW5yKvcS8yVKUTZFyiRnCouw==\n-----END PUBLIC KEY-----\n",
+        "encrypted_private_key": "arT2ZwQqBMmxKxXvDiUvEN2L0fZQLjLw2ZLyKx7TiC6hqUNMMGD/3cEffuZvs5e/mDcBQYIHWh8zk/+OpToVPcXA7qAcIuuvyVzvKsD0TMvMansOtyUHRHAJIwlFLJc1isrHVMT99gRxFh5Ku2CCqDqcryqWm6SWeipe2xPMo5f4RvUwCzdZeAuvSvPAMxCkCcSmP+8c86y5PEBFdwRMjU0bngE0m/GedCdbWTdz8Gl6cnYcOpPHEK3u0duUqF60AXl8lX53JtFsbCxYFCyUVZZKjAeIANerz2WEJCAiHPQefSlFaPV2bMrKBylpqtQz0PezOUFce2u+4tZLUqhugdA=",
+        "nonce": "NNX/YMcxsJaus7kB",
+        "userKey": null
+    },
+    "test": {
+        "username": "test",
+        "hashedPassword": "906d3f66ad9ae32b73d7f973a224a541bedec6171c78c0d807e44df47537e6fbca5057480ee4ce63af1fa8561492ff649b61b2520144faeae857a311bf58a805",
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtcOYoGLOzCblNjFOpxQp2qQZTICy\nXSrD9CXbfEtU6mTORR86B+ZvYuXVZPhCrAnrCPsxDGMkTEjpq+9Y2mRSuQ==\n-----END PUBLIC KEY-----\n",
+        "encrypted_private_key": "3A7IS+qCKWKOM9NgheIIQQ7ff3GwZYyJoP6n8xsIIXw8uaXBfAm3Y5ycCAqCdb4e9/6p0/EqkMAz+f10bTWchfo+Gb81cNgwmOBgjQYz0qm8kfVwVryLcJPJVptjMayM/T7Hnmm8XBJqdKICv+SoBQwWU7Lp8NlbMIK+EnToCqJv3BrnD2Dx3rmJp9uxtcqxOwcY3Ja6wJd9KBDkl+k0Hw0gGQMJXghgo4fShQ+jL8zv+KmT9azd6EYC/CJYoWy7uGIj07V4x5A8v/zySlWyoa0AHttmEOPsZNNM7p5x3sv8uerBnDWdp3koWFLgP3CF+oNezTMiQ1Dpyi0zurdthh4=",
+        "nonce": "l5sJ/CPAckO/Fjdi",
+        "userKey": null
+    },
+    "": {
+        "username": "",
+        "hashedPassword": "d602f351daf0ae0cb165a00bbdfa9896fd80099d54d48a7d8e7bec4e63aac99b0e7c7b4b2b91988d333c2ad0174445f779c8e0cecfd9ae0c0b11e2ce813e52ad",
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELJ8Y4ckXH1VrqSrsd9DkDnbAMAuB\nNL6QawN545aYMWsh6Krm8IMZHjQKG+FgBQBVlVrmJVVug+r1fLxRMtWr9A==\n-----END PUBLIC KEY-----\n",
+        "encrypted_private_key": "f4eNw1y0iZvdZk7HfjPW/TlOxRYT7Kud+wEA0DkWipE5wUDHWQ1348/AOIqpHPo9bL6fwo7n17fkP87UhL/Wl2HSwxafKt2C0Ri3paLAc/VYIylrPwI0WE1FtbmywEXbgkIRnaG9ktdJHpo/RUABeRY1DnEruuwQE19RB4aGT2BurRXZg0bCdqc7MAmgHyVmhloh6AG6IUePP91+BqPVMDJqLMcbk/Bb9rmDrWzL29ohrC+4RZVCRg+lExbgFO6t6/fqQ3jz1qFtAZSfYasM+mam/0z8Smz0sbygZpd4JYdl0OIkLOCwtAd9+0bRgNz0RcqeIOPQg1LElja8QoZHnU8=",
+        "nonce": "JWgrgi93wy7s+ItQ",
+        "userKey": null
+    }
+}
